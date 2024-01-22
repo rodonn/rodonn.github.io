@@ -14,8 +14,8 @@ website:
         href: posts.qmd
       - text: "Research"
         href: research.qmd
-      # - text: "CV"
-      #   href: cv/index.qmd
+      - text: "Resume"
+        href: resume/index.qmd
       - text: "Teaching"
         href: teaching.qmd
     right:
