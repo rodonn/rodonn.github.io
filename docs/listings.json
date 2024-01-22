@@ -8,15 +8,15 @@
     ]
   },
   {
-    "listing": "/posts.html",
-    "items": [
-      "/posts/2023-01-15-simple-x-learner/2023-01-15-simple-x-learner.html"
-    ]
-  },
-  {
     "listing": "/teaching.html",
     "items": [
       "/teaching/2022-applied-causal-infernece.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2023-01-15-simple-x-learner/2023-01-15-simple-x-learner.html"
     ]
   }
 ]
