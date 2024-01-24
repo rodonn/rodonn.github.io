@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>robdonnelly.me/posts.html</loc>
-    <lastmod>2024-01-24T04:02:06.777Z</lastmod>
+    <lastmod>2024-01-24T04:09:32.323Z</lastmod>
   </url>
   <url>
     <loc>robdonnelly.me/about.html</loc>
-    <lastmod>2024-01-24T04:02:06.179Z</lastmod>
-  </url>
-  <url>
-    <loc>robdonnelly.me/resume/index.html</loc>
-    <lastmod>2024-01-24T04:02:05.626Z</lastmod>
-  </url>
-  <url>
-    <loc>robdonnelly.me/research.html</loc>
-    <lastmod>2024-01-24T04:02:04.854Z</lastmod>
-  </url>
-  <url>
-    <loc>robdonnelly.me/research/21-counterfactual_predictions.html</loc>
-    <lastmod>2024-01-24T04:02:04.124Z</lastmod>
-  </url>
-  <url>
-    <loc>robdonnelly.me/research/23-personalized_rankings.html</loc>
-    <lastmod>2024-01-24T04:02:03.499Z</lastmod>
-  </url>
-  <url>
-    <loc>robdonnelly.me/research/18-restaurant_choice.html</loc>
-    <lastmod>2024-01-24T04:02:03.811Z</lastmod>
-  </url>
-  <url>
-    <loc>robdonnelly.me/teaching.html</loc>
-    <lastmod>2024-01-24T04:02:04.454Z</lastmod>
+    <lastmod>2024-01-24T04:09:31.736Z</lastmod>
   </url>
   <url>
     <loc>robdonnelly.me/posts/2023-01-15-simple-x-learner/2023-01-15-simple-x-learner.html</loc>
-    <lastmod>2024-01-24T04:02:05.354Z</lastmod>
+    <lastmod>2024-01-24T04:09:31.189Z</lastmod>
+  </url>
+  <url>
+    <loc>robdonnelly.me/research.html</loc>
+    <lastmod>2024-01-24T04:09:30.439Z</lastmod>
+  </url>
+  <url>
+    <loc>robdonnelly.me/research/21-counterfactual_predictions.html</loc>
+    <lastmod>2024-01-24T04:09:29.746Z</lastmod>
+  </url>
+  <url>
+    <loc>robdonnelly.me/research/23-personalized_rankings.html</loc>
+    <lastmod>2024-01-24T04:09:29.136Z</lastmod>
+  </url>
+  <url>
+    <loc>robdonnelly.me/research/18-restaurant_choice.html</loc>
+    <lastmod>2024-01-24T04:09:29.444Z</lastmod>
+  </url>
+  <url>
+    <loc>robdonnelly.me/teaching.html</loc>
+    <lastmod>2024-01-24T04:09:30.063Z</lastmod>
+  </url>
+  <url>
+    <loc>robdonnelly.me/resume.html</loc>
+    <lastmod>2024-01-24T04:09:30.700Z</lastmod>
   </url>
   <url>
     <loc>robdonnelly.me/index.html</loc>
-    <lastmod>2024-01-24T04:02:15.839Z</lastmod>
+    <lastmod>2024-01-24T04:09:31.478Z</lastmod>
   </url>
   <url>
     <loc>robdonnelly.me/teaching/2022-applied-causal-infernece.html</loc>
-    <lastmod>2024-01-24T04:02:06.466Z</lastmod>
+    <lastmod>2024-01-24T04:09:32.011Z</lastmod>
   </url>
 </urlset>

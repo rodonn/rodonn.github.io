@@ -20,7 +20,7 @@ website:
       - text: "Research"
         href: research.qmd
       - text: "Resume"
-        href: resume/index.qmd
+        href: resume.qmd
       - text: "Teaching"
         href: teaching.qmd
     right:
