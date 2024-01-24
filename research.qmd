@@ -4,6 +4,7 @@ listing:
   contents: research
   sort: "date desc"
   type: default
+  feed: true
   categories: false
   sort-ui: false
   filter-ui: false

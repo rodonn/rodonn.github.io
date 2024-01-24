@@ -25,6 +25,8 @@ website:
         href: teaching.qmd
     right:
       # - about.qmd
+      - icon: rss
+        href: posts.xml
       - icon: github
         href: https://github.com/rodonn
       - icon: twitter
