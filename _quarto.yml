@@ -5,6 +5,11 @@ project:
 website:
   title: "Rob Donnelly"
   description: "Rob Donnelly's personal website"
+  site-url: "robdonnelly.me"
+  site-path: "/"
+  google-analytics: "G-87DS4BSFQC"
+  open-graph: true
+  twitter-card: true
   navbar:
     pinned: true
     left:
