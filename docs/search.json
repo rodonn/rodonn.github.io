@@ -4,7 +4,7 @@
     "href": "posts.html",
     "title": "Posts",
     "section": "",
-    "text": "A Simpler Alternative to X-Learner for Uplift Modeling\n\n\n\n\n\nA guide to the simplified X-learner approach for Uplift modeling\n\n\n\n\n\n\nJan 15, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "A Simpler Alternative to X-Learner for Uplift Modeling\n\n\n\n\n\nA guide to the simplified X-learner approach for Uplift modeling\n\n\n\n\n\nJan 15, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -39,7 +39,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Welfare Effects of Personalized Rankings\n\n\n\n\n\nPublished in Marketing Science\n\n\n\n\n\n\nMay 15, 2023\n\n\nRobert Donnelly, Ayush Kanodia, and Ilya Morozov\n\n\n\n\n\n\n  \n\n\n\n\nCounterfactual inference for consumer choice across many product categories\n\n\n\n\n\nPublished in QME\n\n\n\n\n\n\nNov 17, 2021\n\n\nRob Donnelly, Fran Ruiz, David Blei, and Susan Athey\n\n\n\n\n\n\n  \n\n\n\n\nEstimating heterogeneous consumer preferences for restaurants and travel time using mobile location data\n\n\n\n\n\nPublished in AEA Papers and Proceedings\n\n\n\n\n\n\nMay 1, 2018\n\n\nAthey, Susan, David Blei, Robert Donnelly, Francisco Ruiz, and Tobias Schmidt\n\n\n\n\n\n\nNo matching items"
+    "text": "Welfare Effects of Personalized Rankings\n\n\n\n\n\nPublished in Marketing Science\n\n\n\n\n\nMay 15, 2023\n\n\nRobert Donnelly, Ayush Kanodia, and Ilya Morozov\n\n\n\n\n\n\n\n\n\n\n\n\nCounterfactual inference for consumer choice across many product categories\n\n\n\n\n\nPublished in QME\n\n\n\n\n\nNov 17, 2021\n\n\nRob Donnelly, Fran Ruiz, David Blei, and Susan Athey\n\n\n\n\n\n\n\n\n\n\n\n\nEstimating heterogeneous consumer preferences for restaurants and travel time using mobile location data\n\n\n\n\n\nPublished in AEA Papers and Proceedings\n\n\n\n\n\nMay 1, 2018\n\n\nAthey, Susan, David Blei, Robert Donnelly, Francisco Ruiz, and Tobias Schmidt\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/21-counterfactual_predictions.html",
@@ -67,7 +67,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Applied Causal Inference\n\n\n\n\n\n12 hour online course focused on applications of causal inference\n\n\n\n\n\n\nNov 1, 2022\n\n\n\n\n\n\nNo matching items"
+    "text": "Applied Causal Inference\n\n\n\n\n\n12 hour online course focused on applications of causal inference\n\n\n\n\n\nNov 1, 2022\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resume.html",
@@ -81,7 +81,7 @@
     "href": "index.html",
     "title": "Welcome to my website!",
     "section": "",
-    "text": "Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nHi, thanks for stopping by.\nI am a machine learning research at Arena AI where we are working on generative models of customer behavior to help build autonomous, self-learning systems at large enterprise companies. Previously, I have worked on economic models of competition and network growth as a research scientist at Facebook, on advertising, pricing, and marketplace growth as a senior machine learning engineer at Instacart (L6), and on causal inference and advertiser behavior at Microsoft Research.\nI earned a PhD in Economics at Stanford Graduate School of Business, advised by Susan Athey, Guido Imbens, and Wesley Hartmann. My research focused on developing new methods for causal inference and machine learning, with applications to marketing and economics. In my spare time, I teach an online class on Applied Causal Inference, focused on applications of ML and causal inference in the tech industry.\nI live in Brooklyn, where I enjoy cooking, swing dancing, and playing with my dog, Peanut.\nYou can contact me at rndonnelly@gmail.com."
+    "text": "Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nHi, thanks for stopping by.\nI am a machine learning researcher at Arena AI, where we are working on generative models of customer behavior to help build autonomous, self-learning systems at large enterprise companies. Previously, I have worked on economic models of competition and network growth as a research scientist at Facebook, on advertising, pricing, and marketplace growth as a senior machine learning engineer at Instacart (L6), and on causal inference and advertiser behavior at Microsoft Research.\nI earned a PhD in Economics at Stanford Graduate School of Business, advised by Susan Athey, Guido Imbens, and Wesley Hartmann. My research focused on developing new methods for causal inference and machine learning, with applications to marketing and economics. In my spare time, I teach an online class on Applied Causal Inference, focused on applications of ML and causal inference in the tech industry.\nI live in Brooklyn, where I enjoy cooking, swing dancing, and playing with my dog, Peanut.\nYou can contact me at rndonnelly@gmail.com."
   },
   {
     "objectID": "teaching/2022-applied-causal-infernece.html",

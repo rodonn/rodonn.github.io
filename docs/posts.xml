@@ -9,12 +9,13 @@
 <link>https://robdonnelly.me/posts.html</link>
 <atom:link href="https://robdonnelly.me/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Rob Donnelly&#39;s personal website</description>
-<generator>quarto-1.3.450</generator>
-<lastBuildDate>Sun, 15 Jan 2023 05:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.549</generator>
+<lastBuildDate>Sat, 14 Jan 2023 23:00:00 GMT</lastBuildDate>
 <item>
   <title>A Simpler Alternative to X-Learner for Uplift Modeling</title>
   <link>https://robdonnelly.me/posts/2023-01-15-simple-x-learner/2023-01-15-simple-x-learner.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -218,7 +219,7 @@ font-style: inherit;">1</span>]</span></code></pre></div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://robdonnelly.me/posts/2023-01-15-simple-x-learner/x-learner-s.webp" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">S-learner treatment effect distribution</figcaption>
+<figcaption>S-learner treatment effect distribution</figcaption>
 </figure>
 </div>
 </section>
@@ -275,7 +276,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://robdonnelly.me/posts/2023-01-15-simple-x-learner/x-learner-t.webp" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">T-learner treatment effect distribution</figcaption>
+<figcaption>T-learner treatment effect distribution</figcaption>
 </figure>
 </div>
 </section>
@@ -365,7 +366,7 @@ font-style: inherit;">=</span> xlearner_combined.predict(df_test[X])</span></cod
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://robdonnelly.me/posts/2023-01-15-simple-x-learner/x-learner-xs.webp" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Xs-learner treatment effect distribution</figcaption>
+<figcaption>Xs-learner treatment effect distribution</figcaption>
 </figure>
 </div>
 </section>
@@ -428,7 +429,7 @@ font-style: inherit;">*</span> xlearner_te_model_1_te</span></code></pre></div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://robdonnelly.me/posts/2023-01-15-simple-x-learner/x-learner-x.webp" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">X-learner treatment effect distribution</figcaption>
+<figcaption>X-learner treatment effect distribution</figcaption>
 </figure>
 </div>
 </section>
@@ -499,7 +500,7 @@ font-style: inherit;">;</span></span></code></pre></div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://robdonnelly.me/posts/2023-01-15-simple-x-learner/uplift.webp" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">uplift curve</figcaption>
+<figcaption>uplift curve</figcaption>
 </figure>
 </div>
 <p>For this particular dataset, the simplified X-Learner had the best overall performance.</p>
@@ -518,7 +519,7 @@ font-style: inherit;">;</span></span></code></pre></div>
 
  ]]></description>
   <guid>https://robdonnelly.me/posts/2023-01-15-simple-x-learner/2023-01-15-simple-x-learner.html</guid>
-  <pubDate>Sun, 15 Jan 2023 05:00:00 GMT</pubDate>
+  <pubDate>Sat, 14 Jan 2023 23:00:00 GMT</pubDate>
   <media:content url="https://robdonnelly.me/posts/2023-01-15-simple-x-learner/uplift.webp" medium="image" type="image/webp"/>
 </item>
 </channel>
