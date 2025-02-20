@@ -9,8 +9,8 @@
 <link>https://robdonnelly.me/research.html</link>
 <atom:link href="https://robdonnelly.me/research.xml" rel="self" type="application/rss+xml"/>
 <description>Rob Donnelly&#39;s personal website</description>
-<generator>quarto-1.4.549</generator>
-<lastBuildDate>Sun, 14 May 2023 22:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.40</generator>
+<lastBuildDate>Mon, 15 May 2023 07:00:00 GMT</lastBuildDate>
 <item>
   <title>Welfare Effects of Personalized Rankings</title>
   <dc:creator>Robert Donnelly, Ayush Kanodia, and Ilya Morozov</dc:creator>
@@ -33,7 +33,7 @@
 
  ]]></description>
   <guid>https://robdonnelly.me/research/23-personalized_rankings.html</guid>
-  <pubDate>Sun, 14 May 2023 22:00:00 GMT</pubDate>
+  <pubDate>Mon, 15 May 2023 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Counterfactual inference for consumer choice across many product categories</title>
@@ -57,7 +57,7 @@
 
  ]]></description>
   <guid>https://robdonnelly.me/research/21-counterfactual_predictions.html</guid>
-  <pubDate>Tue, 16 Nov 2021 23:00:00 GMT</pubDate>
+  <pubDate>Wed, 17 Nov 2021 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Estimating heterogeneous consumer preferences for restaurants and travel time using mobile location data</title>
@@ -81,7 +81,7 @@
 
  ]]></description>
   <guid>https://robdonnelly.me/research/18-restaurant_choice.html</guid>
-  <pubDate>Mon, 30 Apr 2018 22:00:00 GMT</pubDate>
+  <pubDate>Tue, 01 May 2018 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

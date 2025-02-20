@@ -9,8 +9,8 @@
 <link>https://robdonnelly.me/posts.html</link>
 <atom:link href="https://robdonnelly.me/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Rob Donnelly&#39;s personal website</description>
-<generator>quarto-1.4.549</generator>
-<lastBuildDate>Sat, 14 Jan 2023 23:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.40</generator>
+<lastBuildDate>Sun, 15 Jan 2023 08:00:00 GMT</lastBuildDate>
 <item>
   <title>A Simpler Alternative to X-Learner for Uplift Modeling</title>
   <link>https://robdonnelly.me/posts/2023-01-15-simple-x-learner/2023-01-15-simple-x-learner.html</link>
@@ -448,6 +448,7 @@ background-color: null;
 font-style: inherit;">10</span>))</span>
 <span id="cb8-2"><span class="kw" style="color: #003B4F;
 background-color: null;
+font-weight: bold;
 font-style: inherit;">def</span> plot_qini_short(model, label, color, linestyle):</span>
 <span id="cb8-3">    plot_qini_curve(df_test[Y], model, df_test[T], name<span class="op" style="color: #5E5E5E;
 background-color: null;
@@ -519,7 +520,7 @@ font-style: inherit;">;</span></span></code></pre></div>
 
  ]]></description>
   <guid>https://robdonnelly.me/posts/2023-01-15-simple-x-learner/2023-01-15-simple-x-learner.html</guid>
-  <pubDate>Sat, 14 Jan 2023 23:00:00 GMT</pubDate>
+  <pubDate>Sun, 15 Jan 2023 08:00:00 GMT</pubDate>
   <media:content url="https://robdonnelly.me/posts/2023-01-15-simple-x-learner/uplift.webp" medium="image" type="image/webp"/>
 </item>
 </channel>

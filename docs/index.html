@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.549">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -33,10 +33,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-6bd9cfa162949bde0a231f530c97869d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -78,10 +78,12 @@ gtag('config', 'G-87DS4BSFQC', { 'anonymize_ip': true});
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Rob Donnelly">
 <meta property="og:description" content="Rob Donnelly’s personal website">
+<meta property="og:image" content="https://robdonnelly.me/images/bio-photo.jpeg">
 <meta property="og:site_name" content="Rob Donnelly">
 <meta name="twitter:title" content="Rob Donnelly">
 <meta name="twitter:description" content="Rob Donnelly’s personal website">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://robdonnelly.me/images/bio-photo.jpeg">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -96,7 +98,7 @@ gtag('config', 'G-87DS4BSFQC', { 'anonymize_ip': true});
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -140,7 +142,7 @@ gtag('config', 'G-87DS4BSFQC', { 'anonymize_ip': true});
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -156,10 +158,10 @@ gtag('config', 'G-87DS4BSFQC', { 'anonymize_ip': true});
 
 
 
-<div class="quarto-about-jolla content">
+<div class="quarto-about-jolla">
   <img src="images/bio-photo.jpeg" class="about-image
   round " style="height: 15em; width: 15em;">
- <div id="about-block">
+ <header id="title-block-header" class="quarto-title-block"></header><div id="about-block">
 </div> 
   <hr class="about-sep">
    <div class="about-links">
@@ -185,9 +187,9 @@ gtag('config', 'G-87DS4BSFQC', { 'anonymize_ip': true});
 <section id="welcome-to-my-website" class="level1">
 <h1>Welcome to my website!</h1>
 <p>Hi, thanks for stopping by.</p>
-<p>I am a machine learning researcher at <a href="https://arena-ai.com">Arena AI</a>, where we are working on generative models of customer behavior to help build autonomous, self-learning systems at large enterprise companies. Previously, I have worked on economic models of competition and network growth as a research scientist at Facebook, on advertising, pricing, and marketplace growth as a senior machine learning engineer at Instacart (L6), and on causal inference and advertiser behavior at Microsoft Research.</p>
+<p>I am a member of the data science staff at OpenAI working on pricing and GPU allocation. Previously, I have worked as a machine learning scientist at a startup (Arena-ai) and on advertising, pricing, and marketplace growth as a senior machine learning engineer at Instacart (L6). I have also worked as a research scientist at Facebook focused on economics and on causal inference and advertiser behavior at Microsoft Research.</p>
 <p>I earned a PhD in Economics at Stanford Graduate School of Business, advised by <a href="https://www.gsb.stanford.edu/faculty-research/faculty/susan-athey">Susan Athey</a>, <a href="https://www.gsb.stanford.edu/faculty-research/faculty/guido-w-imbens">Guido Imbens</a>, and <a href="https://web.stanford.edu/~wesleyr/index.html">Wesley Hartmann</a>. My research focused on developing new methods for causal inference and machine learning, with applications to marketing and economics. In my spare time, I teach an online class on Applied Causal Inference, focused on applications of ML and causal inference in the tech industry.</p>
-<p>I live in Brooklyn, where I enjoy cooking, swing dancing, and playing with my dog, <a href="https://www.instagram.com/peanut_the_pommie">Peanut</a>.</p>
+<p>I live in San Francisco, where I enjoy cooking, swing dancing, and playing with my dog, <a href="https://www.instagram.com/peanut_the_pommie">Peanut</a>.</p>
 <p>You can contact me at <a href="mailto:rndonnelly@gmail.com">rndonnelly@gmail.com</a>.</p>
 
 
@@ -223,18 +225,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -266,7 +257,45 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/robdonnelly\.me");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -301,7 +330,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
@@ -349,7 +382,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
